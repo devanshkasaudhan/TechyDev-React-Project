@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# TechyDev
+
+About
+Simple React Frontend with contact and about page
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
